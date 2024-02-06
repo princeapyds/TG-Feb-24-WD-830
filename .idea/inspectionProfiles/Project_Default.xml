@@ -1,0 +1,10 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
+      <scope name="Scratches and Consoles" level="WEAK WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="QodanaSanity" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>
