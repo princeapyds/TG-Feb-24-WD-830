@@ -1,1 +1,4 @@
-print("welcome to my id nikita here")
+print(" nikita here")
+a = 10
+b = 11
+(a+b)
