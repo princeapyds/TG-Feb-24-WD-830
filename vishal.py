@@ -1,1 +1,2 @@
-print("vishal")
+print("welcome")
+print(10+10)
