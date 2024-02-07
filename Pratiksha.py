@@ -1,5 +1,4 @@
 print("hello python")
-
 class demo:
     a=10
     b=20
